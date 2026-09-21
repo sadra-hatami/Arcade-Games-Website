@@ -1,7 +1,7 @@
 <div align="center">
 
 # Arcade Games Website
-# 🎮✨
+# ✨🎮✨
 
 ### A Persian Browser Arcade of Classic Mini-Games
 
