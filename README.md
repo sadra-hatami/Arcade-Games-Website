@@ -66,7 +66,7 @@ The visitor enters with a name, lands in a game picker, and can move between sev
 
 The project is built with HTML, CSS, and JavaScript and published as a static website. It is meant to show product thinking around a multi-game interface: onboarding, selection, play, and return to the hall.
 
-> **Tagline:** *A browser-based arcade of classic and party mini-games with a Persian interface.*
+> **Tagline:** *A Persian web arcade combining board, reflex, and party games in one browser experience.*
 
 ---
 
