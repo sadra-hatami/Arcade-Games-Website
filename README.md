@@ -21,8 +21,9 @@ A polished web arcade with a player entrance, a card-based game hall, and a coll
 ![Games](https://img.shields.io/badge/Games-7%20Titles-8E44AD?style=for-the-badge)
 ![RTL](https://img.shields.io/badge/Language-Persian-success?style=for-the-badge)
 ![Responsive](https://img.shields.io/badge/Responsive-Yes-0078D6?style=for-the-badge)
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-blue?style=for-the-badge&logo=github)](https://sadra-hatami.github.io/Arcade-Games-Website/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-blue?style=for-the-badge&logo=github)](https://sadra-hatami.github.io/Arcade-Games-Website/)
+![GitHub](https://img.shields.io/badge/Open_Source-Project-black?style=for-the-badge&logo=github)
 
 <br>
 
